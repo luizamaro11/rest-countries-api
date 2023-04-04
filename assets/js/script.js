@@ -111,7 +111,7 @@ function listCountries(countries) {
         const articleCountry = article;
 
         articleCountry.addEventListener("click", (e) => {
-            window.location.href = "http://localhost/rest-countries-api-with-color-theme-switcher-master/assets/views/description_country?name=" + country.name.common;
+            window.location.href = "http://localhost/rest-countries-api-with-color-theme-switcher-master/assets/views/description_country.html?name=" + country.name.common;
         });
 
         return { name: country.name.common, element: articleCountry }
