@@ -1,66 +1,66 @@
-# Frontend Mentor - REST Countries API with color theme switcher solution
+# Frontend Mentor - REST Countries API
 
-This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Esta é uma solução para o [desafio REST Countries API da Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca).
 
-## Table of contents
+## Índice
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+- [Visao geral](#visao-geral)
+  - [O desafio](#o-desafio)
+  - [Captura de tela](#captura-de-tela)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-- [Author](#luizamaro11)
+- [Meu processo](#meu-processo)
+  - [Construido com](#construido-com)
+  - [O que eu aprendi](#o-que-eu-aprendi)
+  - [Desenvolvimento continuo](#desenvolvimento-continuo)
+- [Autor](#autor)
 
-## Overview
+## Visao geral
 
-### The challenge
+### O desafio
 
-Users should be able to:
+Os usuários devem ser capazes de:
 
-- See all countries from the API on the homepage
-- Search for a country using an `input` field
-- Filter countries by region
-- Click on a country to see more detailed information on a separate page
-- Click through to the border countries on the detail page
-- Toggle the color scheme between light and dark mode
+- Ver todos os países da API na página inicial
+- Pesquisar um país usando um campo `input`
+- Filtrar países por região
+- Clicar em um país para ver informações mais detalhadas em uma página separada
+- Clicar nos países da fronteira na página de detalhes
+- Alternar o esquema de cores entre o modo claro e escuro
 
-### Screenshot
+### Captura de tela
 
-![desktop theme one](./design/desktop-design-themeOne-luiz.png)
-![mobile theme one](./design/mobile-design-themeOne-luiz.png)
+![desktop design home light](./design/desktop-design-home-light.jpg)
+![mobile design home light](./design/mobile-design-home-light.jpg)
 
 ### Links
 
-- Solution only on local machine
+- Solução somente na máquina local
 
-## My process
+## Meu processo
 
-### Built with
+### Construido com
 
-- Semantic HTML5 markup
-- CSS custom properties
+- Marcação semântica HTML5
+- Propriedades personalizadas CSS
 - Flexbox
 - CSS Grid
-- Mobile workflow
-- responsive CSS with media query
+- Fluxo de trabalho móvel
+- CSS responsivo com media query
 - javascript
 - npm
-- Integrating api with async/await
+- Integração de API com async/await
 
-### What I learned
+### O que eu aprendi
 
-I used this challenge to further improve my skills as a front-end developer.
+Usei esse desafio para melhorar ainda mais minhas habilidades como desenvolvedor front-end.
 
-### Continued development
+### Desenvolvimento continuo
 
-As a continuation of my studies, I intend to take challenges with css animations and their keyframes.
+Como continuação dos meus estudos, pretendo encarar desafios com animações css e seus keyframes.
 
-utility javascript modules and and advance more, more in javascript and also develop web pages using javascript for DOM manipulation, integrating api with async/await and among other things.
+módulos javascript utilitários e e avançar mais, mais em javascript e também desenvolver páginas web usando javascript para manipulação de DOM, integrando api com async/await e entre outras coisas.
 
-## Author
+## Autor
 
-- github - [@luizamaro11](https://github.com/luizamaro11)
+- luizamaro11 - [@luizamaro11](https://github.com/luizamaro11)
 - Frontend Mentor - [@luizamaro11](https://www.frontendmentor.io/profile/luizamaro11)
